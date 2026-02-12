@@ -141,3 +141,7 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
+<img width="229" height="220" alt="imagen" src="https://github.com/user-attachments/assets/b612caf1-3be5-47ae-83b1-df149e655a1d" />
+
+
